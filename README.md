@@ -4,7 +4,7 @@ Webpack set up to demonstrate build error caused by usages of `data-uri` in elem
 ### To run it locally
 ```
 > git clone https://github.com/samzhao/elemental-webpack.git
-> cd elemental-webpack && npm run start
+> cd elemental-webpack && npm start
 ```
 
 The start script will `npm install` and run the dev server.
